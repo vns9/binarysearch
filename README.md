@@ -1,3 +1,1 @@
-# binarysearch
-
-https://binarysearch.com/
+# binarysearch.com
