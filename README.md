@@ -1,4 +1,3 @@
 # binarysearch.com
 
-
-Weird. This platform needs "global variable resetting"
+- https://binarysearch.com/problems/K-Distinct-Groups/solutions/2664175
